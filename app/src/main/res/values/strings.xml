@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticApp</string>
+    <string name="welcome_text">Iniciar sesion para continuar</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_iniciar_sesion">Iniciar sesion</string>
+</resources>

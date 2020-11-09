@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101716607022",
+    "firebase_url": "https://practicapp-82986.firebaseio.com",
+    "project_id": "practicapp-82986",
+    "storage_bucket": "practicapp-82986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101716607022:android:c8df8740d14aaf1ea81fbf",
+        "android_client_info": {
+          "package_name": "com.antares.practicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101716607022-fj66e9o1l35ppthtef5qknpjibpm0boa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnFBpNIK5ejLnBfJJo3AqTGNipmVyk58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101716607022-fj66e9o1l35ppthtef5qknpjibpm0boa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
